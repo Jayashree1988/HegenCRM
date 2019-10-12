@@ -1,0 +1,4 @@
+browser chrome
+url https://timetracker.ctepl.com/actitime/login.do
+username admin
+password manager
